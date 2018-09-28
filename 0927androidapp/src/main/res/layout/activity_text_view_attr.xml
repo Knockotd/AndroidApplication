@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_name"
+        android:textColor="#ff5099"
+        android:textStyle="bold|italic"
+        android:textSize="24dp"
+        android:id="@+id/myname"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://www.naver.com"
+        android:autoLink="all"/>
+
+    <EditText
+        android:id="@+id/original"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="아무 글자나 입력하세요." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/echo"/>
+
+</LinearLayout>
