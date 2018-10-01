@@ -1,1 +1,1 @@
-include ':app', ':0927androidapp', ':0928androidapp'
+include ':app', ':0927androidapp', ':0928androidapp', ':1001androidapp'
