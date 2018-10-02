@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player">
+        <item>박보검</item>
+        <item>서강준</item>
+        <item>공유</item>
+        <item>시우민</item>
+        <item>송민호</item>
+        <item>피오</item>
+        <item>지코</item>
+    </string-array>
+
+
+
+
+
+</resources>
