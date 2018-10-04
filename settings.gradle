@@ -1,1 +1,1 @@
-include ':app', ':0927androidapp', ':0928androidapp', ':1001androidapp', ':1002choiceandevent'
+include ':app', ':0927androidapp', ':0928androidapp', ':1001androidapp', ':1002choiceandevent', ':1004eventhandler', ':1004resource'
